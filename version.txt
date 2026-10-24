@@ -1,3 +1,3 @@
-version=1.35
+version=1.36
 url=https://raw.githubusercontent.com/mengwzw/MTOrderSteward_EA/main/MTOrderSteward_EA.ex4
 notes=授权码填一次即可, 自动记住
