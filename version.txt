@@ -1,3 +1,0 @@
-version=1.37
-url=https://raw.githubusercontent.com/mengwzw/MTOrderSteward_EA/main/MTOrderSteward_EA.ex4
-notes=新版提示可选择跳过此版本
